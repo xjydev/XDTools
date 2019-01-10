@@ -1,0 +1,16 @@
+PODS:
+  - XDTools (0.1.0)
+
+DEPENDENCIES:
+  - XDTools (from `../`)
+
+EXTERNAL SOURCES:
+  XDTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XDTools: 28bffc7c8d88f242bfeb25fe16e5c3da4dcafc40
+
+PODFILE CHECKSUM: c86c9340d2682c1a3bb18c11898f049a8f959624
+
+COCOAPODS: 1.5.3

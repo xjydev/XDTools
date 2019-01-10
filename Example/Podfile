@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XDTools_Example' do
+  pod 'XDTools', :path => '../'
+
+  target 'XDTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
